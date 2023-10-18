@@ -1,4 +1,4 @@
-//shift register demo script
+//shift register demo script - microchip 74hc595
 
 // Variables
 
