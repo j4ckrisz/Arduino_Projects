@@ -56,7 +56,7 @@ A smart parking lot system using an Arduino.
 - LCD Display (optional)
 
 ### Description:
-This system detects available parking spaces and can automate a gate using sensors.
+This system detects movement to open the gateway.
 
 ![](img/parkinglot_1.png)
 [Project Video](img/parkinglot.mp4)
@@ -110,5 +110,3 @@ This project replicates the popular Chrome Dinosaur Game on an Arduino. The play
 
 ### How to Play:
 Press the button to make the dinosaur jump and avoid obstacles. The game speed increases as you progress, making it more challenging!
-
-![]()
